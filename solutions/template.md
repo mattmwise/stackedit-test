@@ -1,6 +1,8 @@
 # Solutions Doc Content Template
 
 This is a template of content blocks and doesn't address any stylistics, which are highly secondary in any case.
+##Revision history
+* Added revision history section
 
 ## Goals and Use Case:
 
