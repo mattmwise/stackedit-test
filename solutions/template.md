@@ -2,7 +2,9 @@
 
 This is a template of content blocks and doesn't address any stylistics, which are highly secondary in any case.
 ##Revision history
+24 Mar 2015
 * Added revision history section
+* Added dates to track revision history
 
 ## Goals and Use Case:
 
